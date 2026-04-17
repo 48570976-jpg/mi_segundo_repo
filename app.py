@@ -1,1 +1,1 @@
-print("hola mundo")
+print("MASTER - Sistema base")
