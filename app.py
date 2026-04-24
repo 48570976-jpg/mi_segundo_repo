@@ -1,1 +1,2 @@
-print("MASTER - Sistema base modificado")
+print("RAMA 1 - Registro usuarios")
+print("RAMA 2 - Login usuarios")
